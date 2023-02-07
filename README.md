@@ -1,5 +1,5 @@
 
-# React Counter
+# React Redux Counter
 
 In this repo you'll have a good practice of redux js and how to manage routing in your app as beginner
 
